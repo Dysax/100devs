@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(100, 197, 230);
+    color: white;
+    padding: 3%;
+}
+
+article {
+    border: 6px solid rgb(70, 179, 70);
+    padding: 5%;
+    
+}
+
+img {
+    height: 250px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+section h2 {
+    text-align: left;
+    
+}
+
+section p {
+    text-align: left;
+    
+}
